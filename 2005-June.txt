@@ -1,0 +1,291 @@
+From bricefournier at free.fr  Mon Jun  6 15:29:47 2005
+From: bricefournier at free.fr (bricefournier at free.fr)
+Date: Mon,  6 Jun 2005 15:29:47 +0200
+Subject: [Zephir-team] ZEPHIR : Conf call tonight
+Message-ID: <1118064587.42a44fcb6a6bc@imp2-q.free.fr>
+
+Hi guys!
+
+I was very busy last week.
+
+Are you available this evening at 20h00 for a Skype call??
+
+If not tomorrow evening?
+
+Answer soon please.
+
+We will talk about the Chrystel's answer and the Vince's logo...
+
+++
+Bryce
+
+
+From bmathus at free.fr  Mon Jun  6 16:25:12 2005
+From: bmathus at free.fr (Baptiste Mathus)
+Date: Mon,  6 Jun 2005 16:25:12 +0200
+Subject: [Zephir-team] ZEPHIR : Conf call tonight
+In-Reply-To: <1118064587.42a44fcb6a6bc@imp2-q.free.fr>
+References: <1118064587.42a44fcb6a6bc@imp2-q.free.fr>
+Message-ID: <1118067912.42a45cc87555a@imp5-q.free.fr>
+
+Bancal for tonight if necessary.
+But I'd rather have this call tomorrow :)
+
+See you.
+
+
+Selon bricefournier at free.fr:
+
+> Hi guys!
+>
+> I was very busy last week.
+>
+> Are you available this evening at 20h00 for a Skype call??
+>
+> If not tomorrow evening?
+>
+> Answer soon please.
+>
+> We will talk about the Chrystel's answer and the Vince's logo...
+>
+> ++
+> Bryce
+> _______________________________________________
+> Zephir-team mailing list
+> Zephir-team at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/zephir-team
+>
+
+
+--
+Baptiste <Batmat> Mathus
+BMathus at Free point fr
+http://batmat.net
+---------
+Si chacun de nous a une id?e et que nous les partageons, nous
+repartirons tous les deux avec deux id?es... C'est ?a le Libre.
+
+
+From bricefournier at free.Fr  Mon Jun  6 19:48:27 2005
+From: bricefournier at free.Fr (bryce)
+Date: Mon, 06 Jun 2005 19:48:27 +0200
+Subject: [Zephir-team] ZEPHIR : Conf call tonight
+In-Reply-To: <1118067912.42a45cc87555a@imp5-q.free.fr>
+References: <1118064587.42a44fcb6a6bc@imp2-q.free.fr>
+ <1118067912.42a45cc87555a@imp5-q.free.fr>
+Message-ID: <42A48C6B.9000600@free.Fr>
+
+Yop,
+
+conf call tuesday 7th June 2005,
+at 20h00
+
+Please confirm.
+
+Bye
+Bryce
+
+Baptiste Mathus wrote:
+
+>Bancal for tonight if necessary.
+>But I'd rather have this call tomorrow :)
+>
+>See you.
+>
+>
+>Selon bricefournier at free.fr:
+>
+>  
+>
+>>Hi guys!
+>>
+>>I was very busy last week.
+>>
+>>Are you available this evening at 20h00 for a Skype call??
+>>
+>>If not tomorrow evening?
+>>
+>>Answer soon please.
+>>
+>>We will talk about the Chrystel's answer and the Vince's logo...
+>>
+>>++
+>>Bryce
+>>_______________________________________________
+>>Zephir-team mailing list
+>>Zephir-team at lists.berlios.de
+>>http://lists.berlios.de/mailman/listinfo/zephir-team
+>>
+>>    
+>>
+>
+>
+>--
+>Baptiste <Batmat> Mathus
+>BMathus at Free point fr
+>http://batmat.net
+>---------
+>Si chacun de nous a une id?e et que nous les partageons, nous
+>repartirons tous les deux avec deux id?es... C'est ?a le Libre.
+>_______________________________________________
+>Zephir-team mailing list
+>Zephir-team at lists.berlios.de
+>http://lists.berlios.de/mailman/listinfo/zephir-team
+>
+>
+>  
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/zephir-team/attachments/20050606/a8f86a3f/attachment.html>
+
+From ludovic.lelion at club-internet.fr  Mon Jun  6 19:50:00 2005
+From: ludovic.lelion at club-internet.fr (ludo)
+Date: Mon, 06 Jun 2005 19:50:00 +0200
+Subject: [Zephir-team] ZEPHIR : Conf call tonight
+In-Reply-To: <1118067912.42a45cc87555a@imp5-q.free.fr>
+References: <1118064587.42a44fcb6a6bc@imp2-q.free.fr>
+ <1118067912.42a45cc87555a@imp5-q.free.fr>
+Message-ID: <42A48CC8.7010905@club-internet.fr>
+
+Same for me
+
+Ludo
+
+Baptiste Mathus wrote:
+
+>Bancal for tonight if necessary.
+>But I'd rather have this call tomorrow :)
+>
+>See you.
+>
+>
+>Selon bricefournier at free.fr:
+>
+>  
+>
+>>Hi guys!
+>>
+>>I was very busy last week.
+>>
+>>Are you available this evening at 20h00 for a Skype call??
+>>
+>>If not tomorrow evening?
+>>
+>>Answer soon please.
+>>
+>>We will talk about the Chrystel's answer and the Vince's logo...
+>>
+>>++
+>>Bryce
+>>_______________________________________________
+>>Zephir-team mailing list
+>>Zephir-team at lists.berlios.de
+>>http://lists.berlios.de/mailman/listinfo/zephir-team
+>>
+>>    
+>>
+>
+>
+>--
+>Baptiste <Batmat> Mathus
+>BMathus at Free point fr
+>http://batmat.net
+>---------
+>Si chacun de nous a une id?e et que nous les partageons, nous
+>repartirons tous les deux avec deux id?es... C'est ?a le Libre.
+>_______________________________________________
+>Zephir-team mailing list
+>Zephir-team at lists.berlios.de
+>http://lists.berlios.de/mailman/listinfo/zephir-team
+>
+>
+>  
+>
+
+
+
+From vincent at genezys.net  Mon Jun  6 21:00:14 2005
+From: vincent at genezys.net (Vincent)
+Date: Mon, 6 Jun 2005 21:00:14 +0200
+Subject: [Zephir-team] ZEPHIR : Conf call tonight
+In-Reply-To: <42A48CC8.7010905@club-internet.fr>
+References: <1118064587.42a44fcb6a6bc@imp2-q.free.fr> <1118067912.42a45cc87555a@imp5-q.free.fr> <42A48CC8.7010905@club-internet.fr>
+Message-ID: <4A180B84-14D6-4E84-B5E6-54597ECB671E@genezys.net>
+
+Will be hard for me...
+
+I may join you a little later...
+
+-- 
+Vincent
+
+
+
+Le 6 juin 2005 ? 19:50, ludo a ?crit :
+
+> Same for me
+>
+> Ludo
+>
+> Baptiste Mathus wrote:
+>
+>
+>> Bancal for tonight if necessary.
+>> But I'd rather have this call tomorrow :)
+>>
+>> See you.
+>>
+>>
+>> Selon bricefournier at free.fr:
+>>
+>>
+>>
+>>> Hi guys!
+>>>
+>>> I was very busy last week.
+>>>
+>>> Are you available this evening at 20h00 for a Skype call??
+>>>
+>>> If not tomorrow evening?
+>>>
+>>> Answer soon please.
+>>>
+>>> We will talk about the Chrystel's answer and the Vince's logo...
+>>>
+>>> ++
+>>> Bryce
+>>> _______________________________________________
+>>> Zephir-team mailing list
+>>> Zephir-team at lists.berlios.de
+>>> http://lists.berlios.de/mailman/listinfo/zephir-team
+>>>
+>>>
+>>>
+>>
+>>
+>> --
+>> Baptiste <Batmat> Mathus
+>> BMathus at Free point fr
+>> http://batmat.net
+>> ---------
+>> Si chacun de nous a une id?e et que nous les partageons, nous
+>> repartirons tous les deux avec deux id?es... C'est ?a le Libre.
+>> _______________________________________________
+>> Zephir-team mailing list
+>> Zephir-team at lists.berlios.de
+>> http://lists.berlios.de/mailman/listinfo/zephir-team
+>>
+>>
+>>
+>>
+>
+> _______________________________________________
+> Zephir-team mailing list
+> Zephir-team at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/zephir-team
+>
+>
+
+
+

@@ -1,0 +1,597 @@
+From bricefournier at free.fr  Fri May 13 12:13:00 2005
+From: bricefournier at free.fr (bricefournier at free.fr)
+Date: Fri, 13 May 2005 12:13:00 +0200
+Subject: [Zephir-team] Tst of ZephIR Team ML - Please reply!
+Message-ID: <1115979180.42847dacb8739@imp4-q.free.fr>
+
+Test
+
+Have you received my mail?
+
+This list contains for the moment 6 members :
+- Batmat
+- Vincou
+- Ludo
+- Greg
+- Bryce
+- Toutoune
+
+Please reply to this mail to be sure that you receive ML mail and have the
+rights to post to this list. If you have any problem contact me at
+bricefournier at free.fr
+
+Moreover I need to know if you are alive!! :D
+
+Thx,
+
+Bryce
+
+PS : Use english langague please to be sure that external people will understand
+our mails.
+
+
+
+From bricefournier at free.Fr  Thu May 19 23:27:59 2005
+From: bricefournier at free.Fr (bryce)
+Date: Thu, 19 May 2005 23:27:59 +0200
+Subject: [Zephir-team] 2 dead men
+Message-ID: <428D04DF.1080005@free.Fr>
+
+Hi,
+
+I haven't received answers from Greg and Ludo for the test of the ML...
+
+Are you alive men????
+
+Please answer me soon.
+
+If you don't receive ML mail, please let me know.
+
+Thx to other guys for having replyed very quickly!
+++
+
+Brice
+
+
+
+From bricefournier at free.Fr  Fri May 20 00:16:12 2005
+From: bricefournier at free.Fr (bryce)
+Date: Fri, 20 May 2005 00:16:12 +0200
+Subject: [Zephir-team] means of communication for ZephIR project
+Message-ID: <428D102C.3080603@free.Fr>
+
+Hi,
+
+Project begins to restart and for that means of communications have been 
+choosen!
+
+*ML *have been created, don't hesitate to use it, and to answer to the 
+ML instead of just the sender.
+Our project needs to be dynamic, and its a good mean to give everybody 
+concerned by the project.
+
+*Wiki
+http://openfacts.berlios.de/index-en.phtml?title=ZephIR
+*
+The Berlios Wiki, for the moment containing the list of development task 
+to do (to be updated).
+
+*Blog*
+http://zephir.berlios.de/blog/index.php
+Vince & Batmat, you are admin, so if you want to set something... If 
+somebody else wants to be admin, tell me.
+Else, each one has an editor account. Your login are : vincent, antoine, 
+batmat, ludo, greg and your passwd are the same than your login :),
+ so connect you and change your passwd please.
+
+*Forum
+*http://developer.berlios.de/forum/?group_id=3473
+The berlios forum With one question about the planning, :)
+
+Tools are centralized on Berlios using intern tools except for the blog 
+which does not yet exist :D
+
+After discussion with Vincent, we've chosen to have several means of 
+communication to give life to this project.
+Don't hesitate to use this means, and to give your point of view if you 
+find its very useful or if you find that it makes complicated the share 
+of information.
+
+It is very important that we do not lose information and we communicate, 
+I hope this tools will be useful.
+
+Enjoy
+Bryce
+PS : If you want some passwds to admin berlios site, database, ... let 
+me know.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/zephir-team/attachments/20050520/c643d352/attachment.html>
+
+From gregory.cuellar at gmail.com  Fri May 20 12:24:55 2005
+From: gregory.cuellar at gmail.com (=?ISO-8859-1?Q?gr=E9gory_cuellar?=)
+Date: Fri, 20 May 2005 12:24:55 +0200
+Subject: [Zephir-team] Re: 2 dead men
+In-Reply-To: <428D04DF.1080005@free.Fr>
+References: <428D04DF.1080005@free.Fr>
+Message-ID: <88c4d1b0050520032437080560@mail.gmail.com>
+
+Hi,
+
+Yes, I'm alive but very busy...
+I perfectly receive ML's mails.
+
+++
+  Greg
+
+On 5/19/05, bryce <bricefournier at free.fr> wrote:
+> Hi,
+> 
+> I haven't received answers from Greg and Ludo for the test of the ML...
+> 
+> Are you alive men????
+> 
+> Please answer me soon.
+> 
+> If you don't receive ML mail, please let me know.
+> 
+> Thx to other guys for having replyed very quickly!
+> ++
+> 
+> Brice
+> 
+>
+
+
+From bmathus at free.fr  Fri May 20 12:47:32 2005
+From: bmathus at free.fr (Baptiste Mathus)
+Date: Fri, 20 May 2005 12:47:32 +0200
+Subject: [Zephir-team] Re: 2 dead men
+In-Reply-To: <88c4d1b0050520032437080560@mail.gmail.com>
+References: <428D04DF.1080005@free.Fr> <88c4d1b0050520032437080560@mail.gmail.com>
+Message-ID: <1116586052.428dc04430398@imp5-q.free.fr>
+
+I think I'll be able to be there, but I don't have a skype account and I'm under
+Linux. Is there a Linux version of skype ? I've already heard about this
+software, but have never tester it yet.
+
+Well, thinking about it. I think this will be possible : I'm remembering Vanda
+calling Aur?lien during one of our coding session.
+
+See you
+
+Selon gr?gory cuellar <gregory.cuellar at gmail.com>:
+
+> Hi,
+>
+> Yes, I'm alive but very busy...
+> I perfectly receive ML's mails.
+>
+> ++
+>   Greg
+>
+> On 5/19/05, bryce <bricefournier at free.fr> wrote:
+> > Hi,
+> >
+> > I haven't received answers from Greg and Ludo for the test of the ML...
+> >
+> > Are you alive men????
+> >
+> > Please answer me soon.
+> >
+> > If you don't receive ML mail, please let me know.
+> >
+> > Thx to other guys for having replyed very quickly!
+> > ++
+> >
+> > Brice
+> >
+> >
+> _______________________________________________
+> Zephir-team mailing list
+> Zephir-team at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/zephir-team
+>
+
+
+--
+Baptiste <Batmat> Mathus
+BMathus at Free point fr
+http://www.batmat.net
+---------
+Si chacun de nous a une id?e et que nous les partageons, nous
+repartirons tous les deux avec deux id?es... C'est ?a le Libre.
+
+
+From bmathus at free.fr  Sat May 21 12:42:21 2005
+From: bmathus at free.fr (Baptiste MATHUS)
+Date: Sat, 21 May 2005 12:42:21 +0200
+Subject: [Zephir-team] Wiki
+Message-ID: <428F108D.7000805@free.fr>
+
+Vala,
+
+Wiki install?. Reste ? remplacer la marguerite par le logo de Zephir, ?a
+sera mieux :)
+
+http://zephir.berlios.de/wiki
+
+@++
+
+-- 
+Baptiste <Batmat> Mathus
+BMathus at Free point fr
+http://www.batmat.net
+---------
+Si chacun de nous a une id?e et que nous les partageons, nous
+repartirons tous les deux avec deux id?es... C'est ?a le Libre.
+
+
+From bricefournier at free.Fr  Sun May 22 12:37:20 2005
+From: bricefournier at free.Fr (bryce)
+Date: Sun, 22 May 2005 12:37:20 +0200
+Subject: [Zephir-team] ZephIR : Rapport of the first Conf Call - 20/May/2005
+Message-ID: <429060E0.7010708@free.Fr>
+
+  Skype Session:
+    Friday, May 2005 the 20th
+    members : Ludo, Brice, Vincent, Batmat, Greg
+
+First conf call:
+
+*Main subject *: Take contact, How to restart the development, ZephIR 
+Organization
+
+
+*Subject*  :  Courses conception  problem
+*Desc *     :  How to display a course... in the timerange or exactly 
+between the begin and end hours.
+*Actions* :  Brice has to send a mail to Crystel to know her conception.
+
+
+*Subject *:    Remaining issues on the server + Client. How to post a 
+clean version
+*Desc*     :    90 errors( 50 for Light Client ).
+                    Due to conception problem about the planning
+*Actions* :    Waiting for the answer about the courses management
+                    Wait for the answer from Cristel to know how to 
+manage the courses.
+
+
+*Subject *: Having a common database
+*Desc *     : 
+*Actions* : Ask to Greg if he can host the database
+                 greg will use its database as soon as we will have a 
+clean database structure
+                
+*Subject *: When starting the development
+*Desc     *:
+*Actions* : Wait for answer from Crystel first
+                Brice will send mail to prevent of the answer
+                New Skype session will be organized to organize the dev
+
+*Subject *: Discuss about the remaining development task
+*Desc     *:  Discuss the list present on the wiki, to  remember what it 
+still need for the project and test if we all agree and don't forget 
+anything
+*Actions *:  More precise list may be done after answer from Crystel
+
+*Subject* : Means of communication
+*Desc*      : Discuss about Blog, Wiki, and forum installation and use. 
+Using the Berlios Wiki seems to not be a good idea. The forum too. 
+However its important to centralize
+                  all the tools.
+*Actions* : Batmat will install MediaWiki on ZephIR WebSite
+                  Bryce will add links to berlios developer site if it 
+is possible.
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/zephir-team/attachments/20050522/300f233a/attachment.html>
+
+From bmathus at free.fr  Sun May 22 20:10:36 2005
+From: bmathus at free.fr (Baptiste MATHUS)
+Date: Sun, 22 May 2005 20:10:36 +0200
+Subject: [Zephir-team] How to pronounce Skype
+Message-ID: <4290CB1C.1080102@free.fr>
+
+http://support.skype.com/index.php?_a=knowledgebase&_j=questiondetails&_i=10&nav2=General
+
+-- 
+Baptiste <Batmat> Mathus
+BMathus at Free point fr
+http://www.batmat.net
+---------
+Si chacun de nous a une id?e et que nous les partageons, nous
+repartirons tous les deux avec deux id?es... C'est ?a le Libre.
+
+
+From bricefournier at free.fr  Fri May 27 11:02:17 2005
+From: bricefournier at free.fr (bricefournier at free.fr)
+Date: Fri, 27 May 2005 11:02:17 +0200
+Subject: [Zephir-team] Trans.: Re: ZephIR : Demande d'infos Client ... et oui on n'est pas mort :D
+Message-ID: <1117184537.4296e2190d01b@imp4-q.free.fr>
+
+Paf the dog!!!
+
+I won't be available until tuesday, so you can talk about that if you want this
+wkd, else we can have a Skype call tuesday evening about 19h30.
+
+Tell me if you can, if not, please propose another meeting date.
+
+See U gentlemen
+Brice
+
+PS : I don't want to become Nelson Montfort and I don't have time to traduct
+forwarded mail :D ... Maybe I should write directly in english to Chrystel ;)
+
+
+----- Message transf?r? de Chrystel Allebe <Chrystel.Allebe at univ-mlv.fr> -----
+   Date : Fri, 27 May 2005 09:13:39 +0200
+     De : Chrystel Allebe <Chrystel.Allebe at univ-mlv.fr>
+Adresse de retour :Chrystel Allebe <Chrystel.Allebe at univ-mlv.fr>
+  Sujet : Re: ZephIR : Demande d'infos Client ... et oui on n'est pas mort :D
+      ? : bryce <bricefournier at free.Fr>
+
+bryce a ?crit :
+
+> Salut Christel,
+>
+> On continue le projet BOSS, qui s'appelle ZephIR maintenant, comme tu
+> as pu le constater dans un mail pr?c?dent.
+> Le projet a pris du retard, et ne sera surement pas pret pour que tu
+> l'utilises cette ann?e, surtout si tu as d?j? commenc? le planning de
+> l'ann?e prochaine...
+>
+> Il devrait ?tre finalis? courant juin/ juillet on pense, en fonction
+> des dispos des membres encore motiv?s :D
+>
+> Bref, dans cette optique, j'ai une question fonctionnelle ? te poser,
+> ? propos de la disposition des cours sur le planning  :
+>
+> Nous avons quelques soucis avec la repr?sentation du planning ? cause
+> des plages horaires entre les fili?res.
+>
+> Donc ma question est :
+> Est-ce genant si toutes les fili?res ont obligatoirement les m?mes
+> plages horaires?? Je crois que vous y etes revenus...
+> Sinon, nous allons devoir disposer les cours exactement ? l'heure de
+> d?but et de fin, et donc pas forc?ment remplir la case de la plage
+> horaire normale.
+>
+> Si la plage horaire par d?faut est 8h30 / 10h30,  et que le cours a
+> lieu de 9h ? 11h, tu nous avais dit de l'afficher dans les 2 cases de
+> plages horaires du matin et
+> d'afficher en gras les horaires du cours pour qu'on se rende compte
+> qu'il est d?cal? des plages horaires normales.
+>
+> Si les fili?res ont des plages horaires diff?rentes alors cette fa?on
+> de proc?d? nous pose probl?me pour le planning des salles qui est
+> commun ? toutes les filieres.
+>
+> Donc,
+> - Soit toutes les filieres ont les memes plages horaires et cest ok
+> - Soit on affiche le cours exactement de 9h a 11h
+>
+> Que pr?f?res-tu?
+>
+> J'esp?re que j'ai ?t? clair :p  sinon h?site pas, j'essaierai de faire
+> mieux ;)
+>
+> A bient?t
+> Brice
+>
+>
+Salut Brice !
+
+Les 3 fili?res ont les mm plages horaires...donc aucun souci de ce c?t? l? !
+
+Dans le cas o? certains cours seraient en d?cal?, nous l'afficherons
+manuellement...
+
+Bon courage aux "r?sistants" et bonne journ?e !
+
+A bient?t
+
+--
+Chrystel ALLEBE
+Secr?tariat Informatique et R?seaux / Ecole Ing?nieurs 2000
+B?t.Copernic - Bureau 2026
+5 Bd Descartes
+77454 - MARNE LA VALLEE CEDEX 02
+T?l : 01 60 95 74 22
+Fax : 01 60 95 76 51
+E-mail : chrystel.allebe at univ-mlv.fr
+
+
+
+----- Fin du message transf?r? -----
+
+
+
+
+From gregory.cuellar at gmail.com  Fri May 27 12:42:24 2005
+From: gregory.cuellar at gmail.com (=?ISO-8859-1?Q?gr=E9gory_cuellar?=)
+Date: Fri, 27 May 2005 12:42:24 +0200
+Subject: [Zephir-team] Trans.: Re: ZephIR : Demande d'infos Client ... et oui on n'est pas mort :D
+In-Reply-To: <1117184537.4296e2190d01b@imp4-q.free.fr>
+References: <1117184537.4296e2190d01b@imp4-q.free.fr>
+Message-ID: <88c4d1b005052703423fe1488c@mail.gmail.com>
+
+It's ok for me... We can talk about that this week end or/and tuesday
+evening about 19h30.
+Just told me...
+
+++
+   Greg
+
+On 5/27/05, bricefournier at free.fr <bricefournier at free.fr> wrote:
+> 
+> Paf the dog!!!
+> 
+> I won't be available until tuesday, so you can talk about that if you want this
+> wkd, else we can have a Skype call tuesday evening about 19h30.
+> 
+> Tell me if you can, if not, please propose another meeting date.
+> 
+> See U gentlemen
+> Brice
+> 
+> PS : I don't want to become Nelson Montfort and I don't have time to traduct
+> forwarded mail :D ... Maybe I should write directly in english to Chrystel ;)
+> 
+> 
+> ----- Message transf?r? de Chrystel Allebe <Chrystel.Allebe at univ-mlv.fr> -----
+>    Date : Fri, 27 May 2005 09:13:39 +0200
+>      De : Chrystel Allebe <Chrystel.Allebe at univ-mlv.fr>
+> Adresse de retour :Chrystel Allebe <Chrystel.Allebe at univ-mlv.fr>
+>   Sujet : Re: ZephIR : Demande d'infos Client ... et oui on n'est pas mort :D
+>       ? : bryce <bricefournier at free.Fr>
+> 
+> bryce a ?crit :
+> 
+> > Salut Christel,
+> >
+> > On continue le projet BOSS, qui s'appelle ZephIR maintenant, comme tu
+> > as pu le constater dans un mail pr?c?dent.
+> > Le projet a pris du retard, et ne sera surement pas pret pour que tu
+> > l'utilises cette ann?e, surtout si tu as d?j? commenc? le planning de
+> > l'ann?e prochaine...
+> >
+> > Il devrait ?tre finalis? courant juin/ juillet on pense, en fonction
+> > des dispos des membres encore motiv?s :D
+> >
+> > Bref, dans cette optique, j'ai une question fonctionnelle ? te poser,
+> > ? propos de la disposition des cours sur le planning  :
+> >
+> > Nous avons quelques soucis avec la repr?sentation du planning ? cause
+> > des plages horaires entre les fili?res.
+> >
+> > Donc ma question est :
+> > Est-ce genant si toutes les fili?res ont obligatoirement les m?mes
+> > plages horaires?? Je crois que vous y etes revenus...
+> > Sinon, nous allons devoir disposer les cours exactement ? l'heure de
+> > d?but et de fin, et donc pas forc?ment remplir la case de la plage
+> > horaire normale.
+> >
+> > Si la plage horaire par d?faut est 8h30 / 10h30,  et que le cours a
+> > lieu de 9h ? 11h, tu nous avais dit de l'afficher dans les 2 cases de
+> > plages horaires du matin et
+> > d'afficher en gras les horaires du cours pour qu'on se rende compte
+> > qu'il est d?cal? des plages horaires normales.
+> >
+> > Si les fili?res ont des plages horaires diff?rentes alors cette fa?on
+> > de proc?d? nous pose probl?me pour le planning des salles qui est
+> > commun ? toutes les filieres.
+> >
+> > Donc,
+> > - Soit toutes les filieres ont les memes plages horaires et cest ok
+> > - Soit on affiche le cours exactement de 9h a 11h
+> >
+> > Que pr?f?res-tu?
+> >
+> > J'esp?re que j'ai ?t? clair :p  sinon h?site pas, j'essaierai de faire
+> > mieux ;)
+> >
+> > A bient?t
+> > Brice
+> >
+> >
+> Salut Brice !
+> 
+> Les 3 fili?res ont les mm plages horaires...donc aucun souci de ce c?t? l? !
+> 
+> Dans le cas o? certains cours seraient en d?cal?, nous l'afficherons
+> manuellement...
+> 
+> Bon courage aux "r?sistants" et bonne journ?e !
+> 
+> A bient?t
+> 
+> --
+> Chrystel ALLEBE
+> Secr?tariat Informatique et R?seaux / Ecole Ing?nieurs 2000
+> B?t.Copernic - Bureau 2026
+> 5 Bd Descartes
+> 77454 - MARNE LA VALLEE CEDEX 02
+> T?l : 01 60 95 74 22
+> Fax : 01 60 95 76 51
+> E-mail : chrystel.allebe at univ-mlv.fr
+> 
+> 
+> 
+> ----- Fin du message transf?r? -----
+> 
+> 
+> _______________________________________________
+> Zephir-team mailing list
+> Zephir-team at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/zephir-team
+>
+
+
+From vincent at genezys.net  Fri May 27 12:54:56 2005
+From: vincent at genezys.net (Vincent)
+Date: Fri, 27 May 2005 12:54:56 +0200
+Subject: [Zephir-team] Trans.: Re: ZephIR : Demande d'infos Client ... et oui on n'est pas mort :D
+In-Reply-To: <1117184537.4296e2190d01b@imp4-q.free.fr>
+References: <1117184537.4296e2190d01b@imp4-q.free.fr>
+Message-ID: <76D3F4FB-53BB-4D8F-B4A3-3CA583E32B8F@genezys.net>
+
+
+Le 27 mai 2005 ? 11:02, bricefournier at free.fr a ?crit :
+
+> PS : I don't want to become Nelson Montfort and I don't have time  
+> to traduct
+> forwarded mail :D ... Maybe I should write directly in english to  
+> Chrystel ;)
+
+Or maybe you should write directly in French in your messages... Try,  
+you'll get eventually an answer :-)
+
+-- 
+Vincent
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/zephir-team/attachments/20050527/559dca2c/attachment.html>
+
+From bricefournier at free.fr  Fri May 27 13:41:15 2005
+From: bricefournier at free.fr (bricefournier at free.fr)
+Date: Fri, 27 May 2005 13:41:15 +0200
+Subject: [Zephir-team] Trans.: Re: ZephIR : Demande d'infos Client ... et oui on n'est pas mort :D
+In-Reply-To: <76D3F4FB-53BB-4D8F-B4A3-3CA583E32B8F@genezys.net>
+References: <1117184537.4296e2190d01b@imp4-q.free.fr> <76D3F4FB-53BB-4D8F-B4A3-3CA583E32B8F@genezys.net>
+Message-ID: <1117194075.4297075b1d394@imp4-q.free.fr>
+
+I am not sure to understand you...
+
+Chrystel has answered to my mail and it is on the bottom of the page.
+
+HUmm if you have seen that, I don't understand your comments :)
+It doesn't matter... It is the weekend, and I go to London, it's too hot in
+Toulouse ;)
+
+See U
+Bryce
+
+Selon Vincent <vincent at genezys.net>:
+
+>
+> Le 27 mai 2005 ? 11:02, bricefournier at free.fr a ?crit :
+>
+> > PS : I don't want to become Nelson Montfort and I don't have time
+> > to traduct
+> > forwarded mail :D ... Maybe I should write directly in english to
+> > Chrystel ;)
+>
+> Or maybe you should write directly in French in your messages... Try,
+> you'll get eventually an answer :-)
+>
+> --
+> Vincent
+
+
+
+
